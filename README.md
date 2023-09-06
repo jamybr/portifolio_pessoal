@@ -16,12 +16,24 @@ Projeto criado utilizando exemplo de Bootstrap para ensino de uso do README e do
 
  ## Descrição
 
+
+
  ## Introdução
+
+
 
  ## Funcionalidades
 
- ### Tecnologias utilizadas
+ 
 
+ ### Tecnologias utilizadas
+ * VS Code(Visual Code)
+ * Bootstrap
+ * Github
+ * HTML
+ * CSS
  ## Fontes consultadas
+
+
 
  ## Autores
