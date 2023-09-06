@@ -8,9 +8,11 @@
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
 
-# Projeto de portifólio pessoal
+# Projeto do portifólio pessoal
 
-Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README e do Bootstrap.
+![Capa do projeto](img/Capa.png)
+
+Projeto criado utilizando exemplo de Bootstrap para ensino de uso do README e do Bootstrap
 
  ## Descrição
 
