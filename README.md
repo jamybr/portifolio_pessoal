@@ -20,7 +20,7 @@ A partir das aulas de Programação Web, com o professor Leonardo Rocha, ele nos
  ## Introdução
 O projeto foi feito com a principal funcionalidade de aprendermos a usar o Bootstrap e a documentá-lo com o README, comitando-o diretamente para o GitHub.
 
- ## Tecnologias utilizadas
+ ## Tecnologias utilizadas  
  * VS Code(Visual Code) 
  * Bootstrap 
  * Github 
