@@ -31,7 +31,7 @@ O projeto foi feito com a principal funcionalidade de aprendermos a usar o Boots
  * Google 
   1. [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) 
   2. [Dio.Me](https://www.dio.me/articles/personalize-o-readme-no-github)  
- * Colegas     
+ * Colegas   
  1.[Witória](https://github.com/Witoriabeatriz) 
  ## Colaboradores
  * [Professor Leonardo Rocha](https://github.com/leonardossrocha) 
