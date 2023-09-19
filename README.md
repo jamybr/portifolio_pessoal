@@ -36,4 +36,5 @@ O projeto foi feito com a principal funcionalidade de aprendermos a usar o Boots
  ## Colaboradores
  * [Professor Leonardo Rocha](https://github.com/leonardossrocha) 
  ## Autores
+ * [Jasminy Matias e Silva](https://github.com/jamybr) 
  
