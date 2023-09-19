@@ -5,7 +5,8 @@
 [Introdução](#introdu%C3%A7%C3%A3o)  
 [Tecnologias utilizadas](#tecnologias-utilizadas)  
 [Fontes consultadas](#fontes-consultadas)  
-[Autores](#autores)  
+[colaboradores](#colaboradores) 
+[Autores]() 
 
 # Projeto do portifólio pessoal
 
@@ -26,9 +27,13 @@ O projeto foi feito com a principal funcionalidade de aprendermos a usar o Boots
  * HTML
  * CSS
  ## Fontes consultadas
- * Professor Leonardo Rocha()
- * Google
+ 
+ * Google 
+
  * Colegas de turma
   
+ ## Colaboradores
+ * Professor Leonardo Rocha(https://github.com/leonardossrocha) 
+
  ## Autores
  * Jasminy Matias e Silva (https://github.com/jamybr)
