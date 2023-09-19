@@ -29,8 +29,8 @@ O projeto foi feito com a principal funcionalidade de aprendermos a usar o Boots
  * README 
  ## Fontes consultadas
  * Google 
-  1. [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) 
-  2. [Dio.Me](https://www.dio.me/articles/personalize-o-readme-no-github)  
+  1. [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
+  2. [Dio.Me](https://www.dio.me/articles/personalize-o-readme-no-github)  - Como inserir imagem no README
  * Colegas   
   1.[Witória](https://github.com/Witoriabeatriz) 
  ## Colaboradores
