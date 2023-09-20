@@ -5,7 +5,7 @@
 [Introdução](#introdu%C3%A7%C3%A3o)  
 [Tecnologias utilizadas](#tecnologias-utilizadas)  
 [Fontes consultadas](#fontes-consultadas)  
-[colaboradores](#colaboradores) 
+[colaboradores](#colaboradores)   
 [Autores](#autores)  
 
  # 📌Projeto Portifólio Pessoal
