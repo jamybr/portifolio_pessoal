@@ -1,6 +1,6 @@
 # Índice
 
-[Projeto de portifólio pessoal](#portifolio_pessoal)  
+[Projeto Portifólio Pessoal](#portifolio_pessoal)  
 [Descrição](#descri%C3%A7%C3%A3o)  
 [Introdução](#introdu%C3%A7%C3%A3o)  
 [Tecnologias utilizadas](#tecnologias-utilizadas)  
@@ -8,7 +8,7 @@
 [colaboradores](#colaboradores) 
 [Autores](#autores)  
 
- # 📌Projeto do portifólio pessoal
+ # 📌Projeto Portifólio Pessoal
 
 ![Capa do projeto](img/Capa.png)
 
